@@ -1,4 +1,6 @@
-### Hi there 👋
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=daichi1002)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=daichi1002)
 
 <!--
 **daichi1002/daichi1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
